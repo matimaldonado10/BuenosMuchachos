@@ -400,7 +400,7 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
                         boolean success = jsonResponse.getBoolean("exito");
 
 
-                        Log.d("RESPONSE", String.valueOf(response));
+                        Log.d("RESPONSE", String.valueOf(response));    
 
 
 
