@@ -11,7 +11,8 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class LoginRequest extends StringRequest {
-
+//https://192.168.1.14/av/login/login.php
+    // "https://aquavital.000webhostapp.com/login/login.php"
     private static final String LOGIN_REQUEST_URL = "https://aquavital.000webhostapp.com/login/login.php";
     private Map<String, String> params;
 
